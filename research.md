@@ -22,7 +22,7 @@ communication networks. Major research areas include:
 ### Research Projects
 
 1. **MICRONet - Mobile Infrastructure for Coastal Region Offshore Communications & Networks**  
-*Duration*: May 2014 - Present  
+*Duration*: May 2014 - Aug 2017  
 *Collaboration with*: 
 * Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in){:target="_blank"}), Thiruvananthapuram
 * [Amrita University](https://www.amrita.edu)
